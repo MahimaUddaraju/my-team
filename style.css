@@ -293,11 +293,11 @@
 
    h1:var(--style1) */
    
-   #Sri h1 {
-        font-family:'Poppins', sans-serif; 
+   .sri h1 {
+        font-family:'Lobster', sans-serif; 
     }
-   #Sri h2{
-    font-family: 'Lobster';
+   .sri h2{
+    font-family: 'Poppins';
    }
 
 
