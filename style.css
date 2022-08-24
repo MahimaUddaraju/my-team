@@ -317,7 +317,27 @@
 
 
   /* Naveen N S	20112045 starts here */
-  
+  .blue_20112045{
+    font-family: "Cambria";
+    background: #5af349; /* Old browsers */
+    background: -moz-linear-gradient(top, #f5d658 0%, #f5d658 44%, #f5d658 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#7abcff), color-stop(44%,#60abf8), color-stop(100%,#4096ee)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, #7abcff 0%,#60abf8 44%,#4096ee 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, #7abcff 0%,#60abf8 44%,#4096ee 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, #7abcff 0%,#60abf8 44%,#4096ee 100%); /* IE10+ */
+    background: linear-gradient(top, #7abcff 0%,#60abf8 44%,#4096ee 100%); /* W3C */
+}
+
+.blue1_20112045 {
+    font-family: "Cambria";
+    background-color: #de99ec;
+    /* background-color: #4285F4; */
+    border: 3px solid;
+    border-color: #11ff00;
+    color: #062c48;
+    text-align: left;
+    padding-left: 100px;
+}
   /* Naveen N S	20112045 ends here */
 
 
