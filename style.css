@@ -128,6 +128,7 @@
     background-color: #0F9D58;
 }
 
+
 .hContainer {
     display: grid;
     grid-gap: 10px;
@@ -138,11 +139,14 @@
     font-size: 20px;
 }
 
+
 .csty {
     padding: 10px;
     color: white;
     text-align: center;
 }
+
+
 
 /* Demo ends here */
 
@@ -242,7 +246,40 @@
 
 
   /* U Mahima	20112035 starts here */
-  
+
+
+.pink1 {
+    background-color: #F3AAAA;
+}
+
+.purple1 {
+    background-color: #A88BEB;
+}
+
+.csty2 {
+    padding: 10px;
+    color: black;
+    text-align: left;
+}
+.hContainer2 {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 2fr 1fr;
+    margin-left: 50px;
+    margin-right: 300px;
+    color: white;
+    font-size: 20px;
+}
+
+.hContainer3 {
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-left: 50px;
+    margin-right: 300px;
+    color: white;
+    font-size: 20px;
+}
   /* U Mahima	20112035 ends here */
 
 
