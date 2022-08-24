@@ -485,6 +485,148 @@
 
 
   /* Raunit Singh	20112338 starts here */
+  #al body {
+  margin: 0;
+  font-family: 'Raleway';
+  font-size: 16px;
+  line-height: 1.8em;
+}
+
+#al a {
+  color: #1C9C94;
+  text-decoration: none;
+}
+
+#al a:hover {
+  opacity: 0.5;
+}
+
+#al article {
+  padding:0 10px;
+}
+
+#al section{
+  margin: 10px;
+  padding: 10px;
+}
+
+#al header, main, footer {
+  margin: 0 auto;
+}
+
+#al header {
+  padding: 20px;
+  text-align: center;
+  background-image: url('bg.jpg');
+  background-size: cover;
+  background-position: fixed;
+  color: white;
+}
+
+#al header section {
+  margin: 0 auto;
+  max-width: 640px;
+}
+
+#al header img {
+  border-radius: 50%;
+  max-width: 150px;
+}
+
+#al h1 {
+  text-transform: uppercase;
+  margin: 10px 0;
+}
+
+#al h3 {
+  text-transform: uppercase;
+}
+
+#al h3, h4 {
+  font-weight: bold;
+}
+
+#al main {
+  max-width: 1140px;
+}
+
+#al main section:not(:last-child) {
+  border-bottom: 1px solid #ccc;
+}
+
+#al .fab {
+  border: 1px solid white;
+  border-radius: 50%;
+  font-size: 15px;
+  width: 15px;
+  height: 15px;
+  line-height: 15px;
+  margin: 5px;
+  text-align: center;
+}
+
+#al a .fab {
+  color: white;
+}
+
+#al .course, .skills {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+#al .course .title {
+  color: #509e98;
+  -ms-flex: 0 0 33.3%;
+  flex: 0 0 33.3%;
+  max-width: 33%;
+}
+
+#al .course .descrition {
+  -ms-flex: 0 0 66.6%;
+  flex: 0 0 66.6%;
+  max-width: 66.6%;
+}
+
+#al .course .descrition p {
+  padding-left: 10px;
+}
+
+#al .skills .column {
+  -ms-flex: 0 0 50%%;
+  flex: 0 0 50%;
+  max-width: 50%;
+}
+
+#al .skills .column ul, ul.job-description {
+  list-style-type: none;
+}
+
+#al .skills .column ul > li:before {
+  content: "►";
+  padding-right: 5px;
+  color: #509e98;
+}
+
+#al .school, .job-title {
+  text-transform: capitalize;
+}
+
+#al .school span, .job-title span {
+  color: #889499;
+  text-decoration: underline;
+}
+
+#al ul.job-description li:before{
+  content: "✔";
+  padding-right: 5px;
+  color: #509e98;
+}
+
+
+
+  
   
   /* Raunit Singh	20112338 ends here */
 
