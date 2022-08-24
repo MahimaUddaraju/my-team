@@ -233,6 +233,36 @@
 
 
   /* Sandeep Jabez	20112029 starts here */
+  .name{
+    background: hsl(101, 69%, 73%); /* Old browsers */
+    background-image: linear-gradient(45deg,rgb(219, 45, 45), rgb(74, 206, 33));
+    text-align: left;
+    padding-left: 100px;
+
+}
+.cont{
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-left: 50px;
+    margin-right: 300px;
+    color: white;
+    font-size: 20px;
+}
+.p1 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    color: greenyellow;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-left: 50px;
+    margin-right: 300px;
+  }
+  .yellowsj{
+    color: -moz-linear-gradient( #4285F4 20%, #a5c956 80%);
+
+  }
   
   /* Sandeep Jabez	20112029 ends here */
 
