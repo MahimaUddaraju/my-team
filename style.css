@@ -279,6 +279,28 @@
 
   /* Srikant Shubham 20112046 starts here */
   
+  @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Poppins&family=Roboto&display=swap');
+  
+    /* :root {
+          font-family: 'Lobster', cursive;
+        
+      }
+      :style2{
+        font-family: 'Poppins', sans-serif;
+      }
+   :style3{ font-family: 'Roboto', sans-serif;}
+    
+
+   h1:var(--style1) */
+   
+   #Sri h1 {
+        font-family:'Poppins', sans-serif; 
+    }
+   #Sri h2{
+    font-family: 'Lobster';
+   }
+
+
   /* Srikant Shubham 20112046 ends here */
 
 
