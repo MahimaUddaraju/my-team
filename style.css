@@ -262,9 +262,9 @@
   /* Sandeep Jabez	20112029 starts here */
   .name{
     background: hsl(101, 69%, 73%); /* Old browsers */
-    background-image: linear-gradient(45deg,rgb(219, 45, 45), rgb(74, 206, 33));
+    background-image: gradient(45deg,rgb(219, 45, 45), rgb(74, 206, 33));
     text-align: left;
-    padding-left: 100px;
+    
 
 }
 .cont{
