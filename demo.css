@@ -1,0 +1,10 @@
+.demo{
+    color:yellow
+}
+.col{
+    border: 1px colid rgb(37,171,254);
+    border-radius: 5px;
+    background-color: rgb(199,244,199);
+    text-align: center;
+    margin: 5px;
+}
